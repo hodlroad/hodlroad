@@ -17,8 +17,8 @@ Fullstack-разработчик, работаю удалённо. Пишу вн
 
 ### Стек
 
-**Backend:** Python · FastAPI · SQLAlchemy · Alembic · APScheduler
-**Frontend:** TypeScript · React · Next.js · Tailwind · Zustand · SWR
-**Данные:** PostgreSQL · Redis · Trino
-**Инфраструктура:** Docker Compose · nginx · GitLab CI · Keycloak (SSO) · SOPS
-**Качество:** pytest · ruff · pyright · ESLint
+- **Backend:** Python · FastAPI · SQLAlchemy · Alembic · APScheduler
+- **Frontend:** TypeScript · React · Next.js · Tailwind · Zustand · SWR
+- **Данные:** PostgreSQL · Redis · Trino
+- **Инфраструктура:** Docker Compose · nginx · GitLab CI · Keycloak (SSO) · SOPS
+- **Качество:** pytest · ruff · pyright · ESLint
